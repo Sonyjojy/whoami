@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sony Jojy</h1>
-<h3 align="center">cyber security reacher</h3>
+<h3 align="center">Cyber Security Researcher</h3>
 
 - 🌱 I’m currently learning **Bug bounty, Eathical hacking**
 
